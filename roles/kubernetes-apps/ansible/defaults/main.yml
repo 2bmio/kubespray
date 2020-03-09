@@ -38,7 +38,7 @@ netchecker_agent_group: 1000
 netchecker_server_group: 1000
 
 # Dashboard
-dashboard_enabled: false
+dashboard_enabled: true
 dashboard_replicas: 1
 
 # Limits for dashboard
